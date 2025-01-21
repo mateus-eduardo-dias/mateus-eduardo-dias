@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mateus-eduardo-dias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mateuseduqueiroz@proton.me
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- Olá, meu nome é Mateus Eduardo
+- Sou um desenvolvedor Backend que usa Node.Js e PostgreSql em seus projetos
+- Também tenho conhecimento em C++, onde faço alguns jogos as vezes
+- Se esse GitHub estiver quase vazio é por que eu não gastava muito tempo nele
+- Recentemente ando programando com maior frequência, então meu portifólio vem crescendo
+- Tenho alguns emails, caso queira me contatar, procure por _mateuseduqueiroz@proton.me_
+
 
 <!---
 mateus-eduardo-dias/mateus-eduardo-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
