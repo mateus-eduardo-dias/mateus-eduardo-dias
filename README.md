@@ -6,7 +6,7 @@
 - Tenho alguns emails, caso queira me contatar, procure por _mateuseduqueiroz@proton.me_
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-eduardo-dias&show_icons=true&theme=dracula&hide=prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateus_eduardo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
