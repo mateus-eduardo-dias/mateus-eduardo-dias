@@ -28,7 +28,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-eduardo-dias&show_icons=true&theme=dracula&hide=prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateus_eduardo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 <!---
