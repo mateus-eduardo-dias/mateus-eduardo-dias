@@ -1,8 +1,8 @@
 # About me
 - My name is Mateus Eduardo
 - I'm a backend developer
-- I make APIs and Web Apps with Node.js
-- Sometimes i also make games with C++, but it's not the main focus
+- I use Node.Js and PostgreSql
+- Sometimes i also make games with C++, but it's not my main focus
 
 ## Tech Stack
 - 💻 &nbsp;
@@ -19,7 +19,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS_CODE-333333?style=flat)
 - 🖥  &nbsp;
   ![Vercel](https://img.shields.io/badge/-VERCEL-333333?style=flat&logo=vercel)
-  ![Render](https://img.shields.io/badge/-RENDER-333333?style=flat&logo=render)
 
 
 
