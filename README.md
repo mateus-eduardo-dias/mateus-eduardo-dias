@@ -4,6 +4,9 @@
 - I use Node.Js and PostgreSql
 - Sometimes i also make games with C++, but it's not my main focus
 
+## Certificates
+- CS50: https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
+
 ## Tech Stack
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=javascript)
