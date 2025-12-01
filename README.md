@@ -2,10 +2,12 @@
 - My name is Mateus Eduardo
 - I'm a backend developer
 - I use Node.Js and PostgreSql
-- Sometimes i also make games with C++, but it's not my main focus
 
 ## Certificates
 - CS50x: https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
+
+## Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mateus-eduardo-dias)](https://leetcode.com/mateus-eduardo-dias)
 
 ## Tech Stack
 - 💻 &nbsp;
