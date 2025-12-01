@@ -1,13 +1,58 @@
 # About me
 - My name is Mateus Eduardo
 - I'm a backend developer
-- I use Node.Js and PostgreSql
+- 1 Year experience with JavaScript and Node.js Environment
 
 ## Certificates
 - CS50x: https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
 
 ## Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mateus-eduardo-dias)](https://leetcode.com/mateus-eduardo-dias)
+
+## My Tech Stack
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Postgres</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Supabase</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Fedora</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Vim</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Vercel</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Express.js</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+      </td>
+      <td width="25%" align="center">
+      </td>
+      <td width="25%" align="center">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Tech Stack
 - 💻 &nbsp;
