@@ -9,69 +9,93 @@
 ## Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mateus-eduardo-dias)](https://leetcode.com/mateus-eduardo-dias)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&layout=compact)
+
 ## My Tech Stack
 
+### Languages and Environments
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
       </td>
       <td width="25%" align="center">
-        <span>Postgres</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      </td>
-      <td width="25%" align="center">
-        <span>Supabase</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Fedora</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
-      </td>
-      <td width="25%" align="center">
-        <span>Vim</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-      </td>
-      <td width="25%" align="center">
-        <span>Vercel</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Express.js</span><br><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-      </td>
-      <td width="25%" align="center">
-      </td>
-      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
       </td>
     </tr>
   </tbody>
 </table>
 
-## Tech Stack
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=javascript)
-  ![NodeJS](https://img.shields.io/badge/NODE.JS-333333?style=flat&logo=node.js)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-- 🌐 &nbsp;
-  ![Express.js](https://img.shields.io/badge/-EXPRESS-333333?style=flat&logo=express)
-- 🛢 &nbsp;
-  ![Postgres](https://img.shields.io/badge/-POSTGRES-333333?style=flat&logo=PostgreSql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS_CODE-333333?style=flat)
-- 🖥  &nbsp;
-  ![Vercel](https://img.shields.io/badge/-VERCEL-333333?style=flat&logo=vercel)
+### Code Editors / IDE
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Postgres</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>VS Code</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+### Databases
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Vim</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+### Deploy
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Supabase</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Vercel</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+### Operational System
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Fedora</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Extra
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Leetcode</span><br><br><br>
+        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
