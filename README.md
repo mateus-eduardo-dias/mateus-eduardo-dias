@@ -1,7 +1,7 @@
 # About me
 - My name is Mateus Eduardo
-- I'm a backend developer
-- 1 Year experience with JavaScript and Node.js Environment
+- Junior Backend Developer
+- JavaScript + Postgres
 
 ## Certificates
 - CS50x: https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
