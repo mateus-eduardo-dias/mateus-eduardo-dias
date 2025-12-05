@@ -13,7 +13,6 @@
 
 ## My Tech Stack
 
-### Languages and Environments
 <table>
   <tbody>
     <tr valign="top">
@@ -25,70 +24,34 @@
         <span>Node.js</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
       </td>
-    </tr>
-  </tbody>
-</table>
-
-### Code Editors / IDE
-<table>
-  <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Postgres</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>VS Code</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       </td>
-    </tr>
-  </tbody>
-</table>
-
-### Databases
-<table>
-  <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Vim</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
       </td>
-    </tr>
-  </tbody>
-</table>
-
-### Deploy
-<table>
-  <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Supabase</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>Vercel</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
       </td>
-    </tr>
-  </tbody>
-</table>
-
-### Operational System
-<table>
-  <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Fedora</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
       </td>
-    </tr>
-  </tbody>
-</table>
-
-### Extra
-<table>
-  <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Leetcode</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
