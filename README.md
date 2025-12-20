@@ -28,6 +28,14 @@
         <span>Postgres</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       </td>
+      <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      </td>
+      <td width="25%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -42,19 +50,13 @@
         <span>Supabase</span><br><br><br>
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
-        <span>Vercel</span><br><br><br>
-        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+        <span>Express.js</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
       </td>
       <td width="25%" align="center">
         <span>Arch Linux</span><br><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-      </td>
-      <td width="25%" align="center">
-        <span>Leetcode</span><br><br><br>
-        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
       </td>
     </tr>
   </tbody>
