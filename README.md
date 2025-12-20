@@ -2,9 +2,12 @@
 - My name is Mateus Eduardo 🇧🇷
 - I'm a Software Developer 👨‍💻
 - Currently working with JavaScript (Node/express.js), PostgreSQL and Docker
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-eduardo-dias&show_icons=true&theme=dracula&hide=prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 ## Certificates
 - CS50x (conclusion certificate) : https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
+<br>
 
 ## Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateus_eduardo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
