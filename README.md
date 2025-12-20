@@ -49,8 +49,8 @@
         <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
       </td>
       <td width="25%" align="center">
-        <span>Fedora</span><br><br><br>
-        <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+        <span>Arch Linux</span><br><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
       </td>
       <td width="25%" align="center">
         <span>Leetcode</span><br><br><br>
