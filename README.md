@@ -62,7 +62,8 @@
   </tbody>
 </table>
 
-
+## Contact/Information
+Email: [mateuseduqueiroz@proton.me](mailto:mateuseduqueiroz@proton.me)
 
 
 
