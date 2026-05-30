@@ -4,6 +4,27 @@
 - Currently working with JavaScript (Node/express.js), PostgreSQL and Docker
 <br>
 
+## About me 🚀
+```js
+const mateus = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript"],
+  askMeAbout: ["Web Dev"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Bootstrap", "Tailwind"],
+    },
+    backEnd: {
+      javascript: ["Express.js"],
+    },
+    databases: ["PostgreSQL"],
+    tools: ["Git", "Docker],
+  },
+  currentFocus: "Building Integrathor, a tool that integrates AI models with other services.",
+};
+```
+
 [![](https://github-readme-stats.vercel.app/api?username=mateus-eduardo-dias&show_icons=true&theme=dracula&hide=prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 ## Certificates
 - CS50x (conclusion certificate) : https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
