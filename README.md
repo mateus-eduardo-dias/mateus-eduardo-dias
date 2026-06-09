@@ -19,7 +19,7 @@ const mateus = {
       javascript: ["Express.js"],
     },
     databases: ["PostgreSQL"],
-    tools: ["Git", "Docker],
+    tools: ["Git", "Docker"],
   },
   currentFocus: "Building Integrathor, a tool that integrates AI models with other services.",
 };
