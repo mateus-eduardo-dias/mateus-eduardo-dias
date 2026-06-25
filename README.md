@@ -26,7 +26,6 @@ const mateus = {
 };
 ```
 
-[![](https://github-readme-stats.vercel.app/api?username=mateus-eduardo-dias&show_icons=true&theme=dracula&hide=prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 ## Certificates
 - CS50x (conclusion certificate) : https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
 <br>
