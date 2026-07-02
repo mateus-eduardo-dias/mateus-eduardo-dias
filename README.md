@@ -35,6 +35,15 @@ const mateus = {
 [![](https://leetcard.jacoblin.cool/mateus-eduardo-dias)](https://leetcode.com/mateus-eduardo-dias)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-eduardo-dias&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+---
+### WakaTime Statistics
+
+#### Languages
+<div align="center">
+ <img src="https://wakatime.com/share/@mateus_eduardo/60b22f06-d887-4aad-bcc1-d88a14160155.svg" alt="WakaTime Statistics" width="600">
+</div>
+---
+
 ## My Tech Stack
 
 <table>
