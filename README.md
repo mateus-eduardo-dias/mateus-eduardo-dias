@@ -16,7 +16,7 @@ const mateus = {
       css: ["Bootstrap", "Tailwind"],
     },
     backEnd: {
-      javascript: ["Express.js"],
+      javascript: ["Node.js", "Express.js"],
     },
     databases: ["PostgreSQL"],
     tools: ["Git", "Docker", "Linux"],
@@ -42,6 +42,7 @@ const mateus = {
 <div align="center">
  <img src="https://wakatime.com/share/@mateus_eduardo/60b22f06-d887-4aad-bcc1-d88a14160155.svg" alt="WakaTime Statistics" width="600">
 </div>
+
 ---
 
 ## My Tech Stack
