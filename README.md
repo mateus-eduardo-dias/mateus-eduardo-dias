@@ -27,7 +27,8 @@ const mateus = {
 ```
 
 ## Certificates
-- CS50x (conclusion certificate) : https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
+- CS50x (conclusion certificate): https://cs50.harvard.edu/certificates/4e903068-2f74-4cda-b2fa-140426c98b5c
+- English (EF TEST): https://cert.efset.org/pt/4Eh3Rd
 <br>
 
 ## Stats
