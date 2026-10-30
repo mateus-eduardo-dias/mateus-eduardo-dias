@@ -18,7 +18,7 @@ const mateus = {
     backEnd: {
       javascript: ["Node.js", "Express.js"],
     },
-    databases: ["PostgreSQL"],
+    databases: ["PostgreSQL", "Redis"],
     tools: ["Git", "Docker", "Linux"],
     os: ["Cachyos"],
   },
